@@ -10,18 +10,15 @@
 
     "description": "Opensource Blueprint for configuring open source tools with polycloud . Recomended for MEAN App Stack",
     
-     "email": "digital.rig@wipro.com",
+     "emails":{
+       "email":[
+         "\\[digital.rig@wipro.com\\]",
+         "\\[anushka.sharma1@wipro.com\\]"
+                ]
+              },
     
-    "tools": "Configure",
-    
-    "users":{
-      [
-      "user":   
-              "anushka",
-              "ashnim",
-              "devops"
-              ]
-              }
+    "tools": "Configure"
+              
   },
 
   "riglet_info": {
